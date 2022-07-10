@@ -31,7 +31,7 @@
     <p>Ya tiene una cuenta? <a href="#">Entre</a>.</p>
   </div>
 
-   <h1> Gracias, Feliz aprendizaje!!! </h1>
+   <h1>Gracias, Feliz aprendizaje!!! Última modificación 10/08/2022 20:22 </h1>
 
   
-a/form>
+</form>
