@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Registro de nuevo usuario en aprendizaje de DevOps fecha: 10-08-2022 hora: 22:36</h1>
+    <h1>Registro de nuevo usuario en aprendizaje de DevOps fecha: 10-08-2022 hora: 21:09</h1>
     <p>Por favor, rellene este formulario para crear una cuenta.</p>
     <hr>
      
